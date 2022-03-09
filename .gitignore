@@ -1,0 +1,5 @@
+debug/
+sim/
+./sim/*
+./debug/*
+.vscode/
